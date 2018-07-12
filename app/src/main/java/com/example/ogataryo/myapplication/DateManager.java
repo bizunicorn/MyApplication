@@ -15,7 +15,7 @@ import java.util.Locale;
             mCalendar = Calendar.getInstance();
         }
 
-        //当月の要素を取得
+        //当月の要素を取得11111
         public List<Date> getDays(){
 
             //現在の状態を保持
